@@ -1,0 +1,4 @@
+== Install instructions
+
+The below command changes the ruby version, for this project we use 1.9.3
+$> rvm use 1.9.3
